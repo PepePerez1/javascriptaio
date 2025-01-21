@@ -17,3 +17,5 @@ JavaScript Games
 2. The script will detect when the left or right arrow
    keys are pressed and will move the ball element
    accordingly ok.
+
+3. Este es el tercer paso
