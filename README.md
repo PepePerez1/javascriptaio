@@ -6,7 +6,7 @@ JavaScript Games
 ## Uso
 
 1. Include gamelet.js in an HTML document containing an
-   element with an id of 'ball' eso es todo lo.
+   element with an id of 'ball' eso es todo lo que pasa.
 
 ```
 <html>
