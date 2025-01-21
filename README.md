@@ -19,3 +19,7 @@ JavaScript Games
    accordingly ok.
 
 3. Este es el tercer paso
+
+4. Este es el cuarto paso
+
+5. Este es el quinto paso
